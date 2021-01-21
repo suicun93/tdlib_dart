@@ -1,0 +1,21 @@
+name: tdlib
+description: Dart port of the Telegram Database Library (TDLib)
+version: 1.0.0
+author:  Duc T. Hoang <duchoang191@gmail.com>
+
+# Since dart:ffi isn't a stable feature yet you have to be on the latest dev channel
+environment:
+  sdk: '>=2.6.0-dev.8.2 <3.0.0'
+
+dependencies:
+  ffi: # ^0.1.4
+    git: 'git://github.com/dart-lang/ffi'
+  path: ^1.6.4
+  meta: ^1.1.8
+  reflectable: ^2.2.0
+  rxdart: ^0.23.0
+
+dev_dependencies:
+  pedantic: '^1.7.0'
+  test: '^1.6.0'
+  build_runner: ^1.0.0
