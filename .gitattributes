@@ -1,0 +1,4 @@
+/Users/duchoang/Documents/Du[[:space:]]an/tdlib_dart/ios/Classes/TdLib.xcframework/ios-arm64/TdLib.framework filter=lfs diff=lfs merge=lfs -text
+/Users/duchoang/Documents/Du[[:space:]]an/tdlib_dart/ios/Classes/TdLib.xcframework/ios-x86_64-simulator/TdLib.framework filter=lfs diff=lfs merge=lfs -text
+/Users/duchoang/Documents/Du[[:space:]]an/tdlib_dart/ios/Classes/TdLib.xcframework/macos-x86_64/TdLib.framework filter=lfs diff=lfs merge=lfs -text
+/Users/duchoang/Documents/Du[[:space:]]an/tdlib_dart/example/ios/Flutter/Flutter.framework/Flutter filter=lfs diff=lfs merge=lfs -text
