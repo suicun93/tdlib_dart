@@ -1,0 +1,43 @@
+PODS:
+  - Flutter (1.0.0)
+  - path_provider (0.0.1):
+    - Flutter
+  - "permission_handler (5.0.1+1)":
+    - Flutter
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - tdlib (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - SDWebImage
+  - tdlib (from `.symlinks/plugins/tdlib/ios`)
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  tdlib:
+    :path: ".symlinks/plugins/tdlib/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  path_provider: d1a68c4065ce2e0f6fd03f8a46d698525dc79f06
+  permission_handler: eac8e15b4a1a3fba55b761d19f3f4e6b005d15b6
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  tdlib: 8f7dd651ba15fa956afbb454defb88ea710df1f6
+
+PODFILE CHECKSUM: e62c105fd90dcfb0a7765db89facbaf37a153d14
+
+COCOAPODS: 1.10.1
